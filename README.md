@@ -1,5 +1,8 @@
 🧟‍♂️ Surviving the Zombie Cataclysm 🧟‍♀️
 
+![Uploading obraz.png…]()
+
+
 Welcome to the "Surviving the Zombie Cataclysm" project. Dive deep into a world overrun by the undead and explore humanity's struggle in the digital realm. Navigate the apocalypse and join efforts to rebuild civilization!
 
 App Preview
